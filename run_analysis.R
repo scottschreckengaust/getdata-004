@@ -2,11 +2,11 @@
 rm(list=ls())
 
 # Download and unzip the raw data.
-#temp <- tempfile()
-#download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", temp, method="curl")
-#unzip(temp) 
-#unlink(temp)
-#rm(temp)
+temp <- tempfile()
+download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", temp, method="curl")
+unzip(temp) 
+unlink(temp)
+rm(temp)
 
 # Get the names of the features and those columns to keep.
 features <- read.table("UCI HAR Dataset/features.txt")
