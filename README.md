@@ -29,25 +29,25 @@ https://github.com/scottschreckengaust/getdata-004/blob/master/run_analysis.R
 
 * Open the "Terminal" application and type 'R' at the prompt:
 
-	$ R
+		$ R
 
-	R version 3.1.0 (2014-04-10) -- "Spring Dance"
-	Copyright (C) 2014 The R Foundation for Statistical Computing
-	Platform: x86_64-apple-darwin13.2.0 (64-bit)
-	
-	R is free software and comes with ABSOLUTELY NO WARRANTY.
-	You are welcome to redistribute it under certain conditions.
-	Type 'license()' or 'licence()' for distribution details.
-	
-	  Natural language support but running in an English locale
-	
-	R is a collaborative project with many contributors.
-	Type 'contributors()' for more information and
-	'citation()' on how to cite R or R packages in publications.
-	
-	Type 'demo()' for some demos, 'help()' for on-line help, or
-	'help.start()' for an HTML browser interface to help.
-	Type 'q()' to quit R.
+		R version 3.1.0 (2014-04-10) -- "Spring Dance"
+		Copyright (C) 2014 The R Foundation for Statistical Computing
+		Platform: x86_64-apple-darwin13.2.0 (64-bit)
+		
+		R is free software and comes with ABSOLUTELY NO WARRANTY.
+		You are welcome to redistribute it under certain conditions.
+		Type 'license()' or 'licence()' for distribution details.
+		
+		  Natural language support but running in an English locale
+		
+		R is a collaborative project with many contributors.
+		Type 'contributors()' for more information and
+		'citation()' on how to cite R or R packages in publications.
+		
+		Type 'demo()' for some demos, 'help()' for on-line help, or
+		'help.start()' for an HTML browser interface to help.
+		Type 'q()' to quit R.
 
 * At the R prompt, type 'download.file(url="https://raw.githubusercontent.com/scottschreckengaust/getdata-004/master/run_analysis.R", method="curl", destfile="./run_analysis.R")':
 
