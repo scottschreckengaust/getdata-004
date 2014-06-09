@@ -75,5 +75,13 @@ https://github.com/scottschreckengaust/getdata-004/blob/master/run_analysis.R
 		 99 59.6M   99 59.6M    0     0  6418k      0  0:00:09  0:00:09 --:--:-- 8646k
 		100 59.6M  100 59.6M    0     0  6418k      0  0:00:09  0:00:09 --:--:-- 9104k
 
+* Quit R
 
-* Outputs the tidy data set as a text file.
+		> q()
+		Save workspace image? [y/n/c]: n
+
+* There should be an approximately 9.5Mb file named "tidy.txt" with variables described by the Code Book above in your working directory:
+
+		$ ls -nh tidy.txt
+		-rw-rw-r--  1 2502  555   9.5M Jun  9 10:56 tidy.txt
+
