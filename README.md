@@ -80,8 +80,8 @@ https://github.com/scottschreckengaust/getdata-004/blob/master/run_analysis.R
 		> q()
 		Save workspace image? [y/n/c]: n
 
-* There should be an approximately 9.5Mb file named "tidy.txt" with variables described by the Code Book above in your working directory:
+* There should be an approximately 222K file named "tidy.txt" with variables described by the Code Book above in your working directory:
 
 		$ ls -nh tidy.txt
-		-rw-rw-r--  1 2502  555   9.5M Jun  9 10:56 tidy.txt
+		-rw-rw-r--  1 2502  555   222K Jun  9 10:56 tidy.txt
 
