@@ -1,7 +1,6 @@
-getdata-004
+Getting and Cleaning Data Course Project
 ===========
 
-Getting and Cleaning Data Course Project
 
 ## The raw data
 
