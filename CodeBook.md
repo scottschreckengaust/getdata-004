@@ -1,3 +1,101 @@
 Code Book for Getting and Cleaning Data Course Project
 ========================================================
 
+## Variables
+ TimeDomainBodyAccelerationMeanXAxis
+ TimeDomainBodyAccelerationMeanYAxis
+ TimeDomainBodyAccelerationMeanZAxis
+
+ TimeDomainBodyAccelerationStandardDeviationXAxis
+ TimeDomainBodyAccelerationStandardDeviationYAxis
+ TimeDomainBodyAccelerationStandardDeviationZAxis
+
+ TimeDomainGravityAccelerationMeanXAxis
+ TimeDomainGravityAccelerationMeanYAxis
+ TimeDomainGravityAccelerationMeanZAxis
+
+ TimeDomainGravityAccelerationStandardDeviationXAxis
+ TimeDomainGravityAccelerationStandardDeviationYAxis
+ TimeDomainGravityAccelerationStandardDeviationZAxis
+
+ TimeDomainBodyAccelerationJerkSignalMeanXAxis
+ TimeDomainBodyAccelerationJerkSignalMeanYAxis
+ TimeDomainBodyAccelerationJerkSignalMeanZAxis
+
+ TimeDomainBodyAccelerationJerkSignalStandardDeviationXAxis
+ TimeDomainBodyAccelerationJerkSignalStandardDeviationYAxis
+ TimeDomainBodyAccelerationJerkSignalStandardDeviationZAxis
+
+ TimeDomainBodyGyroscopeMeanXAxis
+ TimeDomainBodyGyroscopeMeanYAxis
+ TimeDomainBodyGyroscopeMeanZAxis
+
+ TimeDomainBodyGyroscopeStandardDeviationXAxis
+ TimeDomainBodyGyroscopeStandardDeviationYAxis
+ TimeDomainBodyGyroscopeStandardDeviationZAxis
+
+ TimeDomainBodyGyroscopeJerkSignalMeanXAxis
+ TimeDomainBodyGyroscopeJerkSignalMeanYAxis
+ TimeDomainBodyGyroscopeJerkSignalMeanZAxis
+
+ TimeDomainBodyGyroscopeJerkSignalStandardDeviationXAxis
+ TimeDomainBodyGyroscopeJerkSignalStandardDeviationYAxis
+ TimeDomainBodyGyroscopeJerkSignalStandardDeviationZAxis
+
+ TimeDomainBodyAccelerationMagnitudeMean
+ TimeDomainBodyAccelerationMagnitudeStandardDeviation
+ TimeDomainGravityAccelerationMagnitudeMean
+ TimeDomainGravityAccelerationMagnitudeStandardDeviation
+ TimeDomainBodyAccelerationJerkSignalMagnitudeMean
+ TimeDomainBodyAccelerationJerkSignalMagnitudeStandardDeviation
+ TimeDomainBodyGyroscopeMagnitudeMean
+ TimeDomainBodyGyroscopeMagnitudeStandardDeviation
+ TimeDomainBodyGyroscopeJerkSignalMagnitudeMean
+ TimeDomainBodyGyroscopeJerkSignalMagnitudeStandardDeviation
+
+ FourierTransformBodyAccelerationMeanXAxis
+ FourierTransformBodyAccelerationMeanYAxis
+ FourierTransformBodyAccelerationMeanZAxis
+
+ FourierTransformBodyAccelerationStandardDeviationXAxis
+ FourierTransformBodyAccelerationStandardDeviationYAxis
+ FourierTransformBodyAccelerationStandardDeviationZAxis
+
+ FourierTransformBodyAccelerationJerkSignalMeanXAxis
+ FourierTransformBodyAccelerationJerkSignalMeanYAxis
+ FourierTransformBodyAccelerationJerkSignalMeanZAxis
+
+ FourierTransformBodyAccelerationJerkSignalStandardDeviationXAxis
+ FourierTransformBodyAccelerationJerkSignalStandardDeviationYAxis
+ FourierTransformBodyAccelerationJerkSignalStandardDeviationZAxis
+
+ FourierTransformBodyGyroscopeMeanXAxis
+ FourierTransformBodyGyroscopeMeanYAxis
+ FourierTransformBodyGyroscopeMeanZAxis
+
+ FourierTransformBodyGyroscopeStandardDeviationXAxis
+ FourierTransformBodyGyroscopeStandardDeviationYAxis
+ FourierTransformBodyGyroscopeStandardDeviationZAxis
+
+ FourierTransformBodyAccelerationMagnitudeMean
+ FourierTransformBodyAccelerationMagnitudeStandardDeviation
+ FourierTransformBodyBodyAccelerationJerkSignalMagnitudeMean
+ FourierTransformBodyBodyAccelerationJerkSignalMagnitudeStandardDeviation
+ FourierTransformBodyBodyGyroscopeMagnitudeMean
+ FourierTransformBodyBodyGyroscopeMagnitudeStandardDeviation
+ FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeMean
+ FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeStandardDeviation
+
+## Summary Choices
+ From the raw data, only mean and standard deviation measurements from the raw data were summarized by averaging and agregating on subject and activity.
+
+
+## Study Design
+ The study was designed by:
+* First getting the dataset following the publication:
+
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+
+* Then, loading each of the testing and training data
+## Code book
+
