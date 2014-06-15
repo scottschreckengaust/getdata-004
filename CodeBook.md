@@ -14,9 +14,6 @@ Code Book for Getting and Cleaning Data Course Project
 * Then, loading each of the testing and training data
 ## Code book
 
-* All variables are standard gravity units (g)
-* Elements along each X, Y, and Z axis 
-* 
 
 ## Variables
 ### Time Domain
