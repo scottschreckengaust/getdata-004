@@ -85,24 +85,24 @@ Code Book for Getting and Cleaning Data Course Project
  FourierTransformBodyAccelerationJerkSignalMeanYAxis = The mean jerk signal of the body acceleration along the y-axis in standard gavity units.
  FourierTransformBodyAccelerationJerkSignalMeanZAxis = The mean jerk signal of the body acceleration along the z-axis in standard gavity units.
 
- FourierTransformBodyAccelerationJerkSignalStandardDeviationXAxis = 
- FourierTransformBodyAccelerationJerkSignalStandardDeviationYAxis
- FourierTransformBodyAccelerationJerkSignalStandardDeviationZAxis
+ FourierTransformBodyAccelerationJerkSignalStandardDeviationXAxis = The standard deviation of the jerk signal for the body acceleration along the x-axis in standard gravity units.
+ FourierTransformBodyAccelerationJerkSignalStandardDeviationYAxis = The standard deviation of the jerk signal for the body acceleration along the y-axis in standard gravity units.
+ FourierTransformBodyAccelerationJerkSignalStandardDeviationZAxis = The standard deviation of the jerk signal for the body acceleration along the z-axis in standard gravity units.
 
- FourierTransformBodyGyroscopeMeanXAxis
- FourierTransformBodyGyroscopeMeanYAxis
- FourierTransformBodyGyroscopeMeanZAxis
+ FourierTransformBodyGyroscopeMeanXAxis = The mean fourier transform of the gyroscope angular velocity along the x-axis in radians per second.
+ FourierTransformBodyGyroscopeMeanYAxis = The mean fourier transform of the gyroscope angular velocity along the y-axis in radians per second.
+ FourierTransformBodyGyroscopeMeanZAxis = The mean fourier transform of the gyroscope angular velocity along the z-axis in radians per second.
 
- FourierTransformBodyGyroscopeStandardDeviationXAxis
- FourierTransformBodyGyroscopeStandardDeviationYAxis
- FourierTransformBodyGyroscopeStandardDeviationZAxis
+ FourierTransformBodyGyroscopeStandardDeviationXAxis = The standard deviation for the fourier transform for the gyroscope angular velocity along the x-axis.
+ FourierTransformBodyGyroscopeStandardDeviationYAxis = The standard deviation for the fourier transform for the gyroscope angular velocity along the y-axis.
+ FourierTransformBodyGyroscopeStandardDeviationZAxis = The standard deviation for the fourier transform for the gyroscope angular velocity along the z-axis.
 
- FourierTransformBodyAccelerationMagnitudeMean
- FourierTransformBodyAccelerationMagnitudeStandardDeviation
- FourierTransformBodyBodyAccelerationJerkSignalMagnitudeMean
- FourierTransformBodyBodyAccelerationJerkSignalMagnitudeStandardDeviation
- FourierTransformBodyBodyGyroscopeMagnitudeMean
- FourierTransformBodyBodyGyroscopeMagnitudeStandardDeviation
- FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeMean
- FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeStandardDeviation
+ FourierTransformBodyAccelerationMagnitudeMean = The mean
+ FourierTransformBodyAccelerationMagnitudeStandardDeviation = The standard deviation 
+ FourierTransformBodyBodyAccelerationJerkSignalMagnitudeMean = The mean
+ FourierTransformBodyBodyAccelerationJerkSignalMagnitudeStandardDeviation = The standard deviation 
+ FourierTransformBodyBodyGyroscopeMagnitudeMean = The mean
+ FourierTransformBodyBodyGyroscopeMagnitudeStandardDeviation = The standard deviation 
+ FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeMean = The mean
+ FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeStandardDeviation = The standard deviation 
 
