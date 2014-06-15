@@ -97,12 +97,12 @@ Code Book for Getting and Cleaning Data Course Project
  FourierTransformBodyGyroscopeStandardDeviationYAxis = The standard deviation for the fourier transform for the gyroscope angular velocity along the y-axis.
  FourierTransformBodyGyroscopeStandardDeviationZAxis = The standard deviation for the fourier transform for the gyroscope angular velocity along the z-axis.
 
- FourierTransformBodyAccelerationMagnitudeMean = The mean
- FourierTransformBodyAccelerationMagnitudeStandardDeviation = The standard deviation 
- FourierTransformBodyBodyAccelerationJerkSignalMagnitudeMean = The mean
- FourierTransformBodyBodyAccelerationJerkSignalMagnitudeStandardDeviation = The standard deviation 
- FourierTransformBodyBodyGyroscopeMagnitudeMean = The mean
- FourierTransformBodyBodyGyroscopeMagnitudeStandardDeviation = The standard deviation 
- FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeMean = The mean
- FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeStandardDeviation = The standard deviation 
+ FourierTransformBodyAccelerationMagnitudeMean = The mean magnitude for body acceleration in standard gravity units.
+ FourierTransformBodyAccelerationMagnitudeStandardDeviation = The standard deviation for the body acceleration in standard gravity units.
+ FourierTransformBodyBodyAccelerationJerkSignalMagnitudeMean = The mean jerk signal for the body acceleration in standard gravity units.
+ FourierTransformBodyBodyAccelerationJerkSignalMagnitudeStandardDeviation = The standard deviation of the jerk signal for the body acceleration in standard gravity units.
+ FourierTransformBodyBodyGyroscopeMagnitudeMean = The mean body gyroscope angular velocity in radians per second.
+ FourierTransformBodyBodyGyroscopeMagnitudeStandardDeviation = The standard deviation for the gyroscope angular velocity in radians per second.
+ FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeMean = The mean jerk signal for the body gyroscope angular velocity in radians per second.
+ FourierTransformBodyBodyGyroscopeJerkSignalMagnitudeStandardDeviation = The standard deviation of the jerk signal for the body gyroscope angular velocity in radians per second.
 
